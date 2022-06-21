@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "http": "^0.0.1-security",
+    "mongoose": "^6.4.0",
+    "nodemon": "^2.0.16"
+  },
+  "name": "server",
+  "version": "1.0.0",
+  "description": "boimetric server",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js"
+  },
+  "author": "xxxx",
+  "license": "MIT"
+}
